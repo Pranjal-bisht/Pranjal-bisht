@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranjal-bisht
-- 👀 I’m interested in Machine Learning, Deep Learning and building android apps. I also Love to contribute to open source.
+- 👀 I’m interested in Machine Learning, Deep Learning, NLP and building android apps. I also Love to contribute to open source.
 - 🌱 I’m currently learning Web Development and exploring ReactJS.
 
 <!---
