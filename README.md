@@ -12,7 +12,7 @@
 
 ### About Me:
 - 👋 Hi, I’m @Pranjal-bisht
-- 🎓 I am currently a 4th year Integrated Btech + Mtech student at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
+- 🎓 I am currently in 4th year and an Integrated Btech + Mtech dual degree student at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems with technology.
 - 💻 I am a Full Stack/Software Developer and also interested in Machine Learning, Deep Learning, NLP and building android apps.
 
@@ -24,6 +24,7 @@ Languages:
 <div align="center">
 <code><img height="40" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 <code><img height="40" src="https://img.shields.io/badge/javascript-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4" /></code>
  
 </div>
 Technologies:
