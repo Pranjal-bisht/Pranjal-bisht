@@ -45,7 +45,6 @@ Databases:
 <code><img height="40" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
  
 </div>
----
 <!---
 Pranjal-bisht/Pranjal-bisht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -55,8 +54,8 @@ You can click the Preview link to take a look at your changes.
 <!-- <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-bisht&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
- -->
 
+---
 ### GitHub Stats:
 <p align="centre">
  
