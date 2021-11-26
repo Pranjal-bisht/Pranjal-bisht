@@ -1,4 +1,3 @@
-![final_604c60541bf76a004e9f95b0_126616](https://en.bloggif.com/tmp/f1f1d448122fd3fd697fdda1ad1eb0d9/text.gif?1636740078)
 <p>
  <i>
     I am a developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
