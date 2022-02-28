@@ -13,7 +13,7 @@
 - 👋 Hi, I’m @Pranjal-bisht
 - 🎓 I am currently in 4th year and an Integrated Btech + Mtech dual degree student at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems with technology.
-- 💻 I am a Full Stack/Software Developer and also interested in Machine Learning, Deep Learning, NLP and building android apps.
+- 💻 I am a Software Engineer in making, Interested in Machine Learning, Deep Learning, NLP and building android apps.
 
 
 ---
