@@ -1,6 +1,6 @@
 <p>
  <i>
-    I am a developer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I am a AI Engineer Intern<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
