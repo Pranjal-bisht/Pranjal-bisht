@@ -1,6 +1,6 @@
 <p>
  <i>
-    I am currently Interning as an AI/ML Engineer at a Japanese firm, solving problems using NLP and predictive modelling. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
+    I am currently an open-source contributor (Machine learning) at <a href="https://lets-unify.ai/"> Ivy </a> and I have previously worked as AI/ML Engineer at a Japanese firm, solving problems using NLP and predictive modelling.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
  </i>
 </p>
 
