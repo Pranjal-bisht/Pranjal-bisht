@@ -11,9 +11,10 @@
 
 ### About Me:
 - 👋 Hi, I’m @Pranjal-bisht
-- 🎓 I am currently in 4th year and an Integrated Btech + Mtech dual degree student at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
+- 🎓 I am currently in 5th year (Final Year) and an Integrated Btech + Mtech dual degree student at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems with technology.
 - 💻 I am a Software Engineer in making, Interested in Machine Learning, Deep Learning, NLP and building android apps.
+- 📧 Reach me on <a href="https://www.linkedin.com/in/pranjal-bisht-95a555220/"> linkedin </a> or Mail me at <a href="bishtpranjal27@gmail.com"> bishtpranjal27@gmail.com </a> for Job oppurtunities ( SDE, ML, DS roles ) or to exchange knowledge on tech & stuffs.
 
 
 ---
